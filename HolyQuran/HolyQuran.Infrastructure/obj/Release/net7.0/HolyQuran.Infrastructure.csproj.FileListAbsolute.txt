@@ -1,0 +1,17 @@
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Infrastructure.deps.json
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Infrastructure.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Data.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\bin\Release\net7.0\HolyQuran.Data.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.AssemblyInfo.cs
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.csproj.CopyComplete
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\refint\HolyQuran.Infrastructure.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\HolyQuran.Infrastructure.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Infrastructure\obj\Release\net7.0\ref\HolyQuran.Infrastructure.dll

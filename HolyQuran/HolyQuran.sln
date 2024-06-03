@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolyQuran.API", "HolyQuran.API\HolyQuran.API.csproj", "{71CD176E-011F-491B-A43C-8F70BCCCA519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolyQuran.Core", "HolyQuran.Core\HolyQuran.Core.csproj", "{174B1720-6968-4658-AB72-E15F4E78C0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolyQuran.Data", "HolyQuran.Data\HolyQuran.Data.csproj", "{31731DD0-72D0-48CD-8C22-ED8C137CA8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolyQuran.Infrastructure", "HolyQuran.Infrastructure\HolyQuran.Infrastructure.csproj", "{EB6E4557-835E-4854-B250-6A587B316DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71CD176E-011F-491B-A43C-8F70BCCCA519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CD176E-011F-491B-A43C-8F70BCCCA519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CD176E-011F-491B-A43C-8F70BCCCA519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CD176E-011F-491B-A43C-8F70BCCCA519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174B1720-6968-4658-AB72-E15F4E78C0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174B1720-6968-4658-AB72-E15F4E78C0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174B1720-6968-4658-AB72-E15F4E78C0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174B1720-6968-4658-AB72-E15F4E78C0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31731DD0-72D0-48CD-8C22-ED8C137CA8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31731DD0-72D0-48CD-8C22-ED8C137CA8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31731DD0-72D0-48CD-8C22-ED8C137CA8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31731DD0-72D0-48CD-8C22-ED8C137CA8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6E4557-835E-4854-B250-6A587B316DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6E4557-835E-4854-B250-6A587B316DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6E4557-835E-4854-B250-6A587B316DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6E4557-835E-4854-B250-6A587B316DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {842F31B6-0FB2-432F-9086-439CDBA35DD3}
+	EndGlobalSection
+EndGlobal

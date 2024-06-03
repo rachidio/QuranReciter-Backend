@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\043ca89926da41ed915c37e2621a54a2.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\043ca89926da41ed915c37e2621a54a2.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\1ff62d9b777e4b8e911e9a6d32ce0b8a.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\1ff62d9b777e4b8e911e9a6d32ce0b8a.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\4775a96509ad434fabd2af5ddd688dec.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\4775a96509ad434fabd2af5ddd688dec.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\5614651a02d44affb494854358c50dca.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\5614651a02d44affb494854358c50dca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\58982839ca984226b565516d99fe9d6d.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\58982839ca984226b565516d99fe9d6d.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\6b96dd381ef34a2582e655bb9e25cb08.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\6b96dd381ef34a2582e655bb9e25cb08.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\75bb6c2372b44b4cbbc5c88d65b429b4.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\75bb6c2372b44b4cbbc5c88d65b429b4.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\ada595171f9e42338f71bfb51cb4c548.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\ada595171f9e42338f71bfb51cb4c548.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\af7eccd6b60d48248fa06aaba85336de.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\af7eccd6b60d48248fa06aaba85336de.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Images\\fcc8827e7f0040c293ec8cc7efe54be4.gif",
+      "PackagePath": "staticwebassets\\Files\\Images\\fcc8827e7f0040c293ec8cc7efe54be4.gif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Recordings\\7e6a89cc4c724982add0cd71c1217ef1.jfif",
+      "PackagePath": "staticwebassets\\Files\\Recordings\\7e6a89cc4c724982add0cd71c1217ef1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\SWORD\\Desktop\\.NEt Projects\\HolyQuran\\HolyQuran.API\\wwwroot\\Files\\Recordings\\a195da8df452408ba727b995354a0b26.jfif",
+      "PackagePath": "staticwebassets\\Files\\Recordings\\a195da8df452408ba727b995354a0b26.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HolyQuran.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HolyQuran.API.props",
+      "PackagePath": "build\\HolyQuran.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HolyQuran.API.props",
+      "PackagePath": "buildMultiTargeting\\HolyQuran.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HolyQuran.API.props",
+      "PackagePath": "buildTransitive\\HolyQuran.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

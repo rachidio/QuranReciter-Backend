@@ -1,0 +1,14 @@
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\bin\Debug\net7.0\HolyQuran.Core.deps.json
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\bin\Debug\net7.0\HolyQuran.Core.runtimeconfig.json
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\bin\Debug\net7.0\HolyQuran.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\bin\Debug\net7.0\HolyQuran.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.csproj.AssemblyReference.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.AssemblyInfoInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.AssemblyInfo.cs
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.csproj.CoreCompileInputs.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\refint\HolyQuran.Core.dll
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.pdb
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\HolyQuran.Core.genruntimeconfig.cache
+C:\Users\SWORD\Desktop\.NEt Projects\HolyQuran\HolyQuran.Core\obj\Debug\net7.0\ref\HolyQuran.Core.dll

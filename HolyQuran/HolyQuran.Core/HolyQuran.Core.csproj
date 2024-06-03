@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="ClosedXML" Version="0.102.2" />
+		<PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+		
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Update="Dtos\CreateTajweedRuleDto.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	  <Compile Update="Dtos\CreateNoteDto.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	  <Compile Update="Dtos\UpdateEvaluationDto.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	  <Compile Update="Dtos\CreateEvaluationDto.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	  <Compile Update="Dtos\UpdateRecordingDto.cs">
+	    <SubType>Code</SubType>
+	  </Compile>
+	</ItemGroup>
+</Project>
